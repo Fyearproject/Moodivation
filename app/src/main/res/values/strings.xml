@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Moodivation</string>
+    <string name="download_error_message">There has been an error downloading data</string>
+    <string name="share">Share</string>
+</resources>
